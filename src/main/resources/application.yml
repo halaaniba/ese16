@@ -1,7 +1,5 @@
 server:
   port: 5000
 
----
-environment: production
-server:
-  port: 7070
+authCode: xyz458
+devName: hala:v
